@@ -7,6 +7,7 @@
 //All possible actions
 enum ActionType
 {
+
 	ADD_RESISTOR,		//Add a resistor
 	ADD_BULB,			//Add Bulb
 	ADD_BATTERY,		//Add Battery
